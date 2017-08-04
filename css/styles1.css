@@ -10,6 +10,13 @@ body {
 	color: #666;
 	font-weight: 200;
 }
+.syam{
+	 background-color: white;
+	 border-style: double;
+	 border-color: #94b8b8;
+	 border-radius: 12px;
+	 border-width: 20px;
+ }
 
 p {
 	line-height: 1.9em;
