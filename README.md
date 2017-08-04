@@ -2,6 +2,9 @@ Project tital
 
 responsive web desgine for moringa prep independant project.
 
+Author
+syam kerai
+
 Motivation 
 I was curious how the diffrent webpages adapt with diffren devices and how 
 diffrent kind of computing markdown and mark up languages work.
@@ -26,7 +29,7 @@ to this level where i can do this kind of work.
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2017] [syam kerai]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
