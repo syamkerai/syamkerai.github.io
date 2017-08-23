@@ -1,6 +1,7 @@
+link to the deployed portfolio
 syamkerai.github.io
 
-Project tital
+Project title
 
 My personal portfolio.
 
